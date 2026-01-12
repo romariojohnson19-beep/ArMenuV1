@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ARMANA MENU/ARMANA MENU.vcxproj" Id="3b74401f-8c85-4fd6-873a-9f64b0d33eec">
+    <BuildType Solution="Debug|x64" Project="Release" />
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+</Solution>
